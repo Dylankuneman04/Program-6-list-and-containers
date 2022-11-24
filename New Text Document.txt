@@ -1,0 +1,89 @@
+Program 6
+Due Dec 1 by 11:59pm Points 100 Submitting a file upload Available after Nov 18 at 12am
+Program 6: Lists and Dictionaries
+
+Parts 1 and 2 should be separate programs.
+
+Part 1
+
+Write a program that accepts as input eight numbers from the keyboard and stores them in a list. Include sensible prompts so that the user knows what to do.
+
+Your program should then:
+
+On a single line, display the numbers with four spaces in between each number. Do not display brackets or commas.
+On a single line, display the numbers in reverse order with four spaces in between each number. Do not display brackets or commas.
+Display the sum of the numbers, with explanatory text. Limit the output to two decimal places.
+Display the average of the numbers, with explanatory text. Limit the output to two decimal places.
+On a single line, display each number that is higher than the calculated average with ten spaces between each number. 
+Do not hard code any number literals in your print statements! 
+
+Do not use my numbers. Choose your own!
+
+Extra credit will be awarded for programs that utilize modular design (i.e. functions).
+
+ 
+
+Sample output:
+
+2.0    19.4    -11.2    7.3    0    -11.1    119.9    -42.7
+
+-42.7    119.9    -11.1    0    7.3    -11.2    19.4    2.0
+
+The sum of the numbers is 83.60
+
+The average of the numbers is 10.45
+
+These numbers are above average:          19.4          119.9    
+ 
+
+Part 2
+
+Create a dictionary with at least five key-value pairs. Use strings for either the keys, the values, or both.
+On a single line, display your dictionary's keys and values, with a comma between each pair.
+ 
+
+Modify one of the values in your dictionary.
+On a single line, display your dictionary's keys and values, with a comma between each pair.
+ 
+
+Delete one of the key-value pairs from your dictionary.
+On a single line, display your dictionary's keys and values, with a comma between each pair.
+ 
+
+Print a blank line.
+Display your dictionary's keys, one per line. 
+Print a blank line.
+Display your dictionary's values, one per line.
+ 
+
+Do not print curly braces, quotation marks, or colons.
+
+Do not hard code anything in your print statements! 
+
+Do not use my key-value pairs. Choose your own!
+
+For extra credit, do not print the trailing (final) comma on each of the first three lines of output.
+
+ 
+
+Sample output:
+
+Buffalo Sabres, Toronto Maple Leafs, Boston Bruins, Ottawa Senators, Montreal Canadiens, 
+Buffalo Sabres, Toronto Maple Leaves, Boston Bruins, Ottawa Senators, Montreal Canadiens, 
+Buffalo Sabres, Toronto Maple Leaves, Boston Bruins, Montreal Canadiens, 
+
+Buffalo
+Toronto
+Boston
+Montreal
+
+Sabres
+Maple Leaves
+Bruins
+Canadiens
+ 
+
+Please submit:
+
+plain text files containing your source code (must be .py extensions!)
+images showing your programs running on your workstation
